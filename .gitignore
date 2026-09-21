@@ -10,3 +10,5 @@ wheels/
 .venv
 data/csv/
 *.csv
+data/big_data/
+.DS_Store
